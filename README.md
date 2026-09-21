@@ -9,6 +9,8 @@ del carcinoma basocelular.
 **Autor:** José Carlos Navarro García
 **Tutoras:** Begoña Acha Piñero, María del Carmen Serrano Gotarredona
 
+📄 [Memoria completa del TFG (PDF)](docs/Memoria_TFG_Navarro_Garcia.pdf)
+
 ---
 
 ## Descripción
