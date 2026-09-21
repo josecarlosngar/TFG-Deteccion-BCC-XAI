@@ -1,0 +1,28 @@
+# Datos e imágenes médicas (no se publican)
+datos_aumentados/
+datos_test_reticulo/
+datos_test_sinPatron/
+BCC_ISIC/
+NoBCC_ISIC/
+*.jpg
+*.jpeg
+*.png
+
+# Modelos y resultados entrenados (pesan demasiado para git)
+modelos_keras/
+*.keras
+*.h5
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
